@@ -1,58 +1,111 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Akash Kumar · AkashQuants · Aspiring Data Specialist from India" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashchaudharry/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:akashchaudharry@outlook.com">Email</a> &nbsp; · &nbsp;
-  <a href="https://github.com/AkashQuants?tab=repositories">Explore my projects</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-dark.svg" width="100%" alt="Akash Kumar — aspiring data specialist, focused on data analytics" />
+</picture>
 
-### A little about me
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg" />
+  <img src="assets/typing-dark.svg" width="920" alt="Akash Kumar · Aspiring Data Specialist" />
+</picture>
 
-Hi, I'm Akash 👋 — an aspiring data specialist from India, building my portfolio one project at a time.
+<p><b>Data analytics · Python · SQL · Learning in public</b></p>
 
-I'm interested in using data to understand customer behaviour and answer business questions. This is where I share my projects, practice, and what I learn along the way.
+<a href="https://www.linkedin.com/in/akashchaudharry/"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/linkedin-light.svg" />
+  <img src="assets/linkedin-dark.svg" width="142" alt="Connect on LinkedIn" />
+</picture></a>
+<a href="mailto:akashchaudharry@outlook.com"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/email-light.svg" />
+  <img src="assets/email-dark.svg" width="142" alt="Email Akash" />
+</picture></a>
+<a href="https://github.com/AkashQuants?tab=repositories"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-light.svg" />
+  <img src="assets/github-dark.svg" width="142" alt="Explore my projects" />
+</picture></a>
 
-- **Working on:** Leading Retail Company Analysis
-- **Learning:** Content creation — sharing my work more clearly
-- **Reach me:** [akashchaudharry@outlook.com](mailto:akashchaudharry@outlook.com)
+</div>
 
-### My toolkit
+---
 
-**Data & analysis** &nbsp; `Python` · `Pandas` · `SQL`  
-**Databases** &nbsp; `PostgreSQL` · `MySQL` · `Oracle`  
-**Other tools** &nbsp; `Firebase` · `Zapier`
+## This is me :)
 
-### Featured projects
+Hi, I'm **Akash Kumar**, an aspiring data specialist from India 🇮🇳. My main focus is **data analytics** — understanding the data, asking useful questions, and explaining what I find.
 
-**Leading Retail Company Analysis** &nbsp; · &nbsp; *In progress*  
-An analysis project focused on customer shopping behaviour at a retail company. I'll share the repository and findings here when they're ready.
+- 🔎 **Currently building:** Leading Retail Company Analysis, focused on customer shopping behaviour.
+- 🐍 **My data toolkit:** Python, Pandas, and SQL, with PostgreSQL, MySQL, and Oracle.
+- 🌱 **Currently learning:** Content creation, so I can share my projects and learning more clearly.
+- 🛠️ **This profile:** A growing collection of projects, practice, and notes as I develop my skills.
+- 📫 **Let's connect:** [akashchaudharry@outlook.com](mailto:akashchaudharry@outlook.com)
+
+## My toolkit
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
+  <img src="assets/toolkit-dark.svg" width="100%" alt="Python, SQL, Pandas, PostgreSQL, MySQL, Oracle, Firebase and Zapier" />
+</picture>
+
+## From questions to findings
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.svg" />
+  <img src="assets/focus-dark.svg" width="100%" alt="My analysis workflow: ask, clean, explore, explain" />
+</picture>
+
+## Featured projects
+
+**Leading Retail Company Analysis** · *In progress*  
+Exploring customer shopping behaviour through a retail analysis project. I'll share the repository and findings when they're ready.
 
 <!-- PROJECTS:START -->
 *My published projects will appear here as this portfolio grows.*
 <!-- PROJECTS:END -->
 
-[View all repositories →](https://github.com/AkashQuants?tab=repositories)
+[Explore all my repositories →](https://github.com/AkashQuants?tab=repositories)
 
-### GitHub at a glance
+---
 
-<img src="assets/overview.svg" width="100%" alt="Public repository count, stars received, followers, and contribution totals" />
+## Numbers, with context.
 
-### Showing up & building
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/overview-light.svg" />
+  <img src="assets/overview-dark.svg" width="100%" alt="Public repositories, stars received, yearly contributions and commit contributions" />
+</picture>
 
-<img src="assets/streak.svg" width="100%" alt="Current contribution streak, longest streak in the last year, and active days" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg" />
+  <img src="assets/streak-dark.svg" width="100%" alt="Current streak, longest streak within the last year, and active days" />
+</picture>
 
-<img src="assets/activity.svg" width="100%" alt="Daily contribution activity over the last 30 days" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
+  <img src="assets/languages-dark.svg" width="100%" alt="Language mix across my public original repositories" />
+</picture>
+
+## One contribution at a time
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg" />
+  <img src="assets/activity-dark.svg" width="100%" alt="Daily contribution activity over the last 30 days" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/calendar-light.svg" />
+  <img src="assets/calendar-dark.svg" width="100%" alt="GitHub contribution calendar for the last year" />
+</picture>
 
 <details>
-<summary><b>Explore my contribution calendar & commit graph</b></summary>
+<summary><b>See the commit graph &amp; how these numbers work</b></summary>
 <br />
-<img src="assets/calendar.svg" width="100%" alt="Contribution heatmap for the last year" />
-<br />
-<img src="assets/commits.svg" width="100%" alt="Daily qualifying commit contributions over the last 30 days" />
 
-<sub>Contributions follow GitHub's counting rules. Commit contributions are a subset of total activity. Streaks use UTC dates and the last year's calendar; today's streak stays open until the day ends.</sub>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/commits-light.svg" />
+  <img src="assets/commits-dark.svg" width="100%" alt="Daily qualifying commit contributions over the last 30 days" />
+</picture>
+
+<sub>Contribution totals follow GitHub's counting rules. Streaks use UTC days and the rolling-year calendar. Today's streak stays open until the day ends. Language percentages measure code bytes in public, original repositories; they are not skill ratings.</sub>
+
 </details>
 
 <!-- UPDATED:START -->
@@ -61,4 +114,6 @@ An analysis project focused on customer shopping behaviour at a retail company. 
 
 ---
 
-<p align="center"><sub>Learning in public. Asking better questions. Making sense of data.</sub></p>
+<div align="center">
+<sub><code>Ask better questions. Make sense of data. — @AkashQuants</code></sub>
+</div>
