@@ -1,24 +1,64 @@
-<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate aspiring data Specialist from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashquants" alt="akashquants" /></a> </p>
-
-- 🔭 I’m currently working on **Leading Retail Company Analysis**
-
-- 🌱 I’m currently learning **Content Creation**
-
-- 📫 How to reach me **akashchaudharry@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akashchaudharry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashchaudharry" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Akash Kumar · AkashQuants · Aspiring Data Specialist from India" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashchaudharry/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:akashchaudharry@outlook.com">Email</a> &nbsp; · &nbsp;
+  <a href="https://github.com/AkashQuants?tab=repositories">Explore my projects</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashquants&show_icons=true&locale=en&layout=compact" alt="akashquants" /></p>
+### A little about me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashquants&show_icons=true&locale=en" alt="akashquants" /></p>
+Hi, I'm Akash 👋 — an aspiring data specialist from India, building my portfolio one project at a time.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashquants&" alt="akashquants" /></p>
+I'm interested in using data to understand customer behaviour and answer business questions. This is where I share my projects, practice, and what I learn along the way.
+
+- **Working on:** Leading Retail Company Analysis
+- **Learning:** Content creation — sharing my work more clearly
+- **Reach me:** [akashchaudharry@outlook.com](mailto:akashchaudharry@outlook.com)
+
+### My toolkit
+
+**Data & analysis** &nbsp; `Python` · `Pandas` · `SQL`  
+**Databases** &nbsp; `PostgreSQL` · `MySQL` · `Oracle`  
+**Other tools** &nbsp; `Firebase` · `Zapier`
+
+### Featured projects
+
+**Leading Retail Company Analysis** &nbsp; · &nbsp; *In progress*  
+An analysis project focused on customer shopping behaviour at a retail company. I'll share the repository and findings here when they're ready.
+
+<!-- PROJECTS:START -->
+*My published projects will appear here as this portfolio grows.*
+<!-- PROJECTS:END -->
+
+[View all repositories →](https://github.com/AkashQuants?tab=repositories)
+
+### GitHub at a glance
+
+<img src="assets/overview.svg" width="100%" alt="Public repository count, stars received, followers, and contribution totals" />
+
+### Showing up & building
+
+<img src="assets/streak.svg" width="100%" alt="Current contribution streak, longest streak in the last year, and active days" />
+
+<img src="assets/activity.svg" width="100%" alt="Daily contribution activity over the last 30 days" />
+
+<details>
+<summary><b>Explore my contribution calendar & commit graph</b></summary>
+<br />
+<img src="assets/calendar.svg" width="100%" alt="Contribution heatmap for the last year" />
+<br />
+<img src="assets/commits.svg" width="100%" alt="Daily qualifying commit contributions over the last 30 days" />
+
+<sub>Contributions follow GitHub's counting rules. Commit contributions are a subset of total activity. Streaks use UTC dates and the last year's calendar; today's streak stays open until the day ends.</sub>
+</details>
+
+<!-- UPDATED:START -->
+<sub>Activity cards are ready for their first automated update.</sub>
+<!-- UPDATED:END -->
+
+---
+
+<p align="center"><sub>Learning in public. Asking better questions. Making sense of data.</sub></p>
