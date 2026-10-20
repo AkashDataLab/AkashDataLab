@@ -8,7 +8,7 @@ import re
 import urllib.request
 
 ROOT = Path(__file__).resolve().parents[1]
-USER = 'AkashQuants'
+USER = 'AkashDataLab'
 BG, PANEL, EDGE = '#0a101f', '#0f1b2e', '#263650'
 WHITE, MUTED, TEAL, BLUE = '#e3e8f4', '#8e9eb9', '#22d3ee', '#aa9bef'
 
@@ -96,7 +96,7 @@ def calendar(weeks):
 
 def request(url, payload=None):
     token = os.environ.get('GH_TOKEN')
-    headers = {'User-Agent':'AkashQuants-profile', 'Accept':'application/vnd.github+json'}
+    headers = {'User-Agent':'AkashDataLab-profile', 'Accept':'application/vnd.github+json'}
     if token:
         headers['Authorization'] = f'Bearer {token}'
     data = None if payload is None else json.dumps(payload).encode()

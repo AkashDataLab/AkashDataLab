@@ -22,7 +22,7 @@ for mode in ['dark','light']:
  body+=rect(0,0,1180,610,bg,r=18)+rect(13,13,1154,584,panel,edge,13)
  body+=f'<path d="M13 62H1167" stroke="{edge}"/>'
  for x,c in [(38,'#ff5f57'),(59,'#febc2e'),(80,'#28c840')]: body+=f'<circle cx="{x}" cy="38" r="6" fill="{c}"/>'
- body+=txt(590,43,'akash@quants:~  $ ./profile.sh --live',13,muted,'middle')
+ body+=txt(590,43,'akash@datalab:~  $ ./profile.sh --live',13,muted,'middle')
  body+=rect(35,88,412,472,bg,edge,6)+rect(468,88,677,472,bg,edge,6)
  body+=f'<path d="M35 124H447 M468 124H1145" stroke="{edge}"/>'
  body+=txt(51,111,'PROFILE.PORTRAIT',13,cyan,weight=700)+txt(432,111,'01 / AK',11,muted,'end')
