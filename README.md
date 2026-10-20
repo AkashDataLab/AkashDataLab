@@ -20,7 +20,7 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/email-light.svg" />
   <img src="assets/email-dark.svg" width="142" alt="Email Akash" />
 </picture></a>
-<a href="https://github.com/AkashQuants?tab=repositories"><picture>
+<a href="https://github.com/AkashDataLab?tab=repositories"><picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/github-light.svg" />
   <img src="assets/github-dark.svg" width="142" alt="Explore my projects" />
 </picture></a>
@@ -62,7 +62,7 @@ Exploring customer shopping behaviour through a retail analysis project. I'll sh
 *My published projects will appear here as this portfolio grows.*
 <!-- PROJECTS:END -->
 
-[Explore all my repositories →](https://github.com/AkashQuants?tab=repositories)
+[Explore all my repositories →](https://github.com/AkashDataLab?tab=repositories)
 
 ---
 
@@ -115,5 +115,5 @@ Exploring customer shopping behaviour through a retail analysis project. I'll sh
 ---
 
 <div align="center">
-<sub><code>Ask better questions. Make sense of data. — @AkashQuants</code></sub>
+<sub><code>Ask better questions. Make sense of data. — @AkashDataLab</code></sub>
 </div>
