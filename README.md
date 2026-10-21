@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img src="assets/banner-dark.svg" width="100%" alt="Akash Kumar — aspiring data specialist, focused on data analytics" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=77d5a57b8cec" />
+  <img src="assets/banner-dark.svg?v=03112d4845f4" width="100%" alt="Akash Kumar — aspiring data specialist, focused on data analytics" />
 </picture>
 
 <picture>
